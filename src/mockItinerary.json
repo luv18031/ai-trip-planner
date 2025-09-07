@@ -1,0 +1,66 @@
+{
+  "tripTitle": "A Culinary and Heritage Journey through Hyderabad",
+  "totalEstimatedCost": 19500,
+  "dailyPlan": [
+    {
+      "dayNumber": 1,
+      "themeOfDay": "Historical Wonders & Old City Flavors",
+      "activities": [
+        {
+          "time": "09:00 AM - 12:00 PM",
+          "name": "Explore Charminar & Laad Bazaar",
+          "description": "Begin your journey at the iconic Charminar. Climb to the top for a panoramic view of the bustling streets and then wander through the famous Laad Bazaar, known for its bangles and pearls.",
+          "category": "Sightseeing",
+          "estimatedCost": 250,
+          "location": { "latitude": 17.3616, "longitude": 78.4747 }
+        },
+        {
+          "time": "12:30 PM - 02:00 PM",
+          "name": "Lunch at Shadab Hotel",
+          "description": "Experience authentic Hyderabadi cuisine. Famous for its Biryani and Nihari, this is a must-visit spot near Charminar for a taste of the old city.",
+          "category": "Food",
+          "estimatedCost": 900,
+          "location": { "latitude": 17.3648, "longitude": 78.4740 }
+        },
+        {
+          "time": "02:30 PM - 05:00 PM",
+          "name": "Chowmahalla Palace",
+          "description": "Step back in time at the magnificent palace of the Nizams. Admire the grand architecture, vintage car collection, and opulent courtyards.",
+          "category": "Heritage",
+          "estimatedCost": 300,
+          "location": { "latitude": 17.3578, "longitude": 78.4717 }
+        }
+      ]
+    },
+    {
+      "dayNumber": 2,
+      "themeOfDay": "Modern Hyderabad & Lakeside Serenity",
+      "activities": [
+        {
+          "time": "10:00 AM - 01:00 PM",
+          "name": "Ramoji Film City Tour (Half-Day)",
+          "description": "Explore the world's largest integrated film city. Enjoy the thematic gardens, film sets, and various entertainment shows. A fun-filled morning for everyone.",
+          "category": "Entertainment",
+          "estimatedCost": 1500,
+          "location": { "latitude": 17.2543, "longitude": 78.6808 }
+        },
+        {
+          "time": "02:00 PM - 03:00 PM",
+          "name": "Lunch in Jubilee Hills",
+          "description": "Dine at one of the trendy cafes in Jubilee Hills, the modern hub of Hyderabad, offering a variety of cuisines.",
+          "category": "Food",
+          "estimatedCost": 1200,
+          "location": { "latitude": 17.4332, "longitude": 78.4022 }
+        },
+        {
+          "time": "05:00 PM - 07:00 PM",
+          "name": "Boating & Sunset at Hussain Sagar Lake",
+          "description": "Enjoy a relaxing evening with a boat ride to the giant Buddha statue in the middle of Hussain Sagar Lake. The sunset views are spectacular.",
+          "category": "Relaxing",
+          "estimatedCost": 400,
+          "location": { "latitude": 17.4239, "longitude": 78.4738 }
+        }
+      ]
+    }
+  ]
+}
